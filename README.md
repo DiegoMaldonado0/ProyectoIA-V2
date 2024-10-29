@@ -1,6 +1,9 @@
 # ProyectoIA-V2
 Traductor y lector con voz de lenguaje de señas en tiempo real utilizando visión artificial y Machine Learning para el reconocimiento de cada seña
 
+![image](https://github.com/user-attachments/assets/4808fbed-0c11-416a-8a04-8003adb28c30)
+
+
 # Requerimientos
 Recomiendo altamente ejecutar los scripts en Python 3.9, pues algunas de las librerías parecen dar problemas en versiones anteriores e incluso posteriores
 
