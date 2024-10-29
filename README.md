@@ -17,7 +17,7 @@ Las librerias a instalar y que fueron utilizadas son:
 Las demás librerías suelen estar precargadas
 
 # Explicación
-El repositorio ya incluye un modelo entrenado con las señas incluidas en el ASL ALPHABET, por lo que solo hace falta descargar la carpeta del repositorio y ejecutar el script traductor_main.py, los siguientes pasos a seguir son para crear un nuevo dataset, entrenar un modelo que reconozca las imágenes cargadas y ponerlo en uso con información recabada en tiempo real, hacer esto puede suponer modificar el diccionario de clases, entre otros bloques de código en el script antes mencionado.
+El repositorio ya incluye un modelo entrenado con las señas incluidas en el ASL ALPHABET, por lo que solo hace falta descargar la carpeta del repositorio, extraerlo y crear una nueva carpeta que contenga el 'model.p' y el 'traductor_main.py' y desde ahí ejecutar dicho script, los siguientes pasos a seguir son para crear un nuevo dataset, entrenar un modelo que reconozca las imágenes cargadas y ponerlo en uso con información recabada en tiempo real, hacer esto puede suponer modificar el diccionario de clases, entre otros bloques de código en el script antes mencionado.
 
 El repositorio incluye 4 archivos indispensables para crear un dataset, entrenar un modelo de IA y posteriormente usar este modelo para hacer predicciones en las señas que se muestran en cámara
 
@@ -40,6 +40,12 @@ Ahora contamos con el archivo 'data.pickle', por lo que solo hace falta ejecutar
 Es el momento de ejecutar el ultimo script!, este archivo ejecutará de nueva cuenta una ventana que activa la cámara integrada de tu computador y está listo para detectar las señas que le enseñaste al modelo incluso reproducidas con voz
 
 # Muestras del trabajo en tiempo real
+
+Sí descargas el repositorio y deseas utilizar el traductor que yo creé, sólo es necesario que descargues 'model.p' y traductor_main.py, los mantengas en una sola carpeta y ejecutes el script de python desde ahí!, a continuación te dejo una imagen con las señas que el modelo ya reconoce, deja cualquier seña por más de 3 segundos y la aplicación dirá por medio de voz la seña que has puesto, disfrutalo!
+
+![image](https://github.com/user-attachments/assets/56970398-fc81-4e6a-b619-0b5622aa3277)
+
+
 ![image](https://github.com/user-attachments/assets/01244b66-5dc0-4302-b150-5d4757227ecd)
 
 ![image](https://github.com/user-attachments/assets/2a42301e-9120-4067-9d31-9c75fcf47fe9)
