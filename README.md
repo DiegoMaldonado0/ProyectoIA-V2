@@ -3,6 +3,7 @@ Traductor y lector con voz de lenguaje de señas en tiempo real utilizando visi�
 
 ![image](https://github.com/user-attachments/assets/4808fbed-0c11-416a-8a04-8003adb28c30)
 
+https://gaelnavarrete2004.github.io/proyecto-manos/
 
 # Requerimientos
 Recomiendo altamente ejecutar los scripts en Python 3.9, pues algunas de las librerías parecen dar problemas en versiones anteriores e incluso posteriores
@@ -47,7 +48,6 @@ Es el momento de ejecutar el ultimo script!, este archivo ejecutará de nueva cu
 Sí descargas el repositorio y deseas utilizar el traductor que yo creé, sólo es necesario que descargues 'model.p' y traductor_main.py, los mantengas en una sola carpeta y ejecutes el script de python desde ahí!, a continuación te dejo una imagen con las señas que el modelo ya reconoce, deja cualquier seña por más de 3 segundos y la aplicación dirá por medio de voz la seña que has puesto, disfrutalo!
 
 ![image](https://github.com/user-attachments/assets/56970398-fc81-4e6a-b619-0b5622aa3277)
-
 
 ![image](https://github.com/user-attachments/assets/01244b66-5dc0-4302-b150-5d4757227ecd)
 
