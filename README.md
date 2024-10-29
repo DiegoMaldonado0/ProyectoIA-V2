@@ -41,5 +41,14 @@ Es el momento de ejecutar el ultimo script!, este archivo ejecutará de nueva cu
 
 # Muestras del trabajo en tiempo real
 ![image](https://github.com/user-attachments/assets/01244b66-5dc0-4302-b150-5d4757227ecd)
+
 ![image](https://github.com/user-attachments/assets/2a42301e-9120-4067-9d31-9c75fcf47fe9)
+
 ![image](https://github.com/user-attachments/assets/1a624db3-f339-4c23-a0cc-a16a2407a22b)
+
+# Muestras de la carpeta 'data' generada por medio de recolectar_imagenes.py
+
+![image](https://github.com/user-attachments/assets/6e292cfe-a22b-4d7e-a45a-b9afb5f66b66)
+
+![image](https://github.com/user-attachments/assets/0325026e-67e4-48cf-bbac-2bb5439c056c)
+
